@@ -1,17 +1,17 @@
 [[collection]]
 type = "card_simple"
-icon = "/assets/reliability.png"
+icon = "https://dragonsintrees.github.io/iaculus-site/assets/reliability.png"
 title = "Reliability Architecture"
 content = "Automated Systems Design"
 
 [[collection]]
 type = "card_simple"
-icon = "/assets/robot.png"
+icon = "https://dragonsintrees.github.io/iaculus-site/assets/robot.png"
 title = "Agent Engineering"
 content = "Development & Maintenance of Agent Workflows"
 
 [[collection]]
 type = "card_simple"
-icon = "/assets/governance.png"
+icon = "https://dragonsintrees.github.io/iaculus-site/assets/governance.png"
 title = "Governance Architecture"
 content = "Permission Boundary Setting & Decision Review"
