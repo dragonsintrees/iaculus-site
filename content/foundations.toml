@@ -1,17 +1,17 @@
 [[collection]]
 type = "card_simple"
-icon = "/assets/rel-arch.svg"
+icon = "/assets/reliability.png"
 title = "Reliability Architecture"
 content = "Automated Systems Design"
 
 [[collection]]
 type = "card_simple"
-icon = "/assets/robot.svg"
+icon = "/assets/robot.png"
 title = "Agent Engineering"
 content = "Development & Maintenance of Agent Workflows"
 
 [[collection]]
 type = "card_simple"
-icon = "/assets/gov-arch.svg"
+icon = "/assets/governance.png"
 title = "Governance Architecture"
 content = "Permission Boundary Setting & Decision Review"

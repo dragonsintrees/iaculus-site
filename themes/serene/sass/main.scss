@@ -745,8 +745,8 @@ body.prose-page {
         overflow: hidden;
 
         img {
-            width: 48px;
-            height: 48px;
+            width: 32px;
+            height: 32px;
             &.rotate {
                 transition: transform 0.15s;
                 transform: rotate(-20deg) translate(-2px, 12px);

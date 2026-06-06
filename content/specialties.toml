@@ -1,17 +1,17 @@
 [[collection]]
 type = "card_simple"
-icon = "/assets/kubernetes.svg"
+icon = "/assets/kubernetes.png"
 title = "Kubernetes"
 content = "Embedded LLM Reasoning"
 
 [[collection]]
 type = "card_simple"
-icon = "/assets/rust.svg"
+icon = "/assets/rust.png"
 title = "Rust"
 content = "Scalable Agent Systems"
 
 [[collection]]
 type = "card_simple"
-icon = "/assets/roadmap.svg"
+icon = "/assets/roadmap.png"
 title = "Agentic Roadmapping"
 content = "Proactive Systems Thinking"
