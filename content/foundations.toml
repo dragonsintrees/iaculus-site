@@ -1,0 +1,17 @@
+[[collection]]
+type = "card_simple"
+icon = "/assets/rel-arch.svg"
+title = "Reliability Architecture"
+content = "Automated Systems Design"
+
+[[collection]]
+type = "card_simple"
+icon = "/assets/robot.svg"
+title = "Agent Engineering"
+content = "Development & Maintenance of Agent Workflows"
+
+[[collection]]
+type = "card_simple"
+icon = "/assets/gov-arch.svg"
+title = "Governance Architecture"
+content = "Permission Boundary Setting & Decision Review"
